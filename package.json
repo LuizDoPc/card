@@ -1,14 +1,14 @@
 {
-  "name": "joselito",
-  "version": "1.2.0",
-  "description": "A personal card for Joselito (@breakzplatform)",
+  "name": "luizdopc",
+  "version": "1.2.7",
+  "description": "A personal card for Luiz Soares (@luizdopc)",
   "main": "index.js",
   "bin": {
-    "joselito": "./bin/card.js"
+    "luizdopc": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breakzplatform/card.git"
+    "url": "git+https://github.com/luizdopc/card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,15 +18,14 @@
   "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
-    "commander": "^2.19.0",
-    "yargs": "^15.3.1"
+    "commander": "^2.19.0"
   },
   "devDependencies": {
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/breakzplatform/card/issues"
+    "url": "https://github.com/luizdopc/card/issues"
   },
-  "homepage": "https://joseli.to",
-  "author": "Joselito <hey@joseli.to> (http://joseli.to)"
+  "homepage": "https://luizdopc.github.io",
+  "author": "luizdopc <luizotaviosoares@outlook.com>"
 }
